@@ -1,6 +1,6 @@
 
 # Cybersecurity-lab-steup-1
-Cybersecurity lab steup 1
+
 <div align="center">
 
 # 🔐 Cybersecurity Lab Environment Setup
